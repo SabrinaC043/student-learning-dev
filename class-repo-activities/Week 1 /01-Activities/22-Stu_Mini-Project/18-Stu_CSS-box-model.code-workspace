@@ -1,0 +1,71 @@
+{
+	"folders": [
+		{
+			"path": "../18-Stu_CSS-box-model"
+		},
+		{
+			"path": "../01-Ins_Command-Line"
+		},
+		{
+			"path": "../02-Stu_Command-Line"
+		},
+		{
+			"path": "../03-Ins_Git"
+		},
+		{
+			"path": "../04-Stu_Git"
+		},
+		{
+			"path": "../05-Ins_HTML"
+		},
+		{
+			"path": "../06-Stu_HTML"
+		},
+		{
+			"path": "../07-Ins_Attributes"
+		},
+		{
+			"path": "../08-Stu_Attributes"
+		},
+		{
+			"path": "../09-Ins_CSS-color"
+		},
+		{
+			"path": "../10-Stu_CSS-color"
+		},
+		{
+			"path": "../11-Ins_CSS-units-font"
+		},
+		{
+			"path": "../12-Stu_CSS-units-font"
+		},
+		{
+			"path": "../13-Ins_CSS-selectors"
+		},
+		{
+			"path": "../14-Stu_CSS-selectors"
+		},
+		{
+			"path": "../15-Ins_HTML-display"
+		},
+		{
+			"path": "../16-Stu_HTML-display"
+		},
+		{
+			"path": "../17-Ins_CSS-box-model"
+		},
+		{
+			"path": "../19-Ins_CSS-positioning"
+		},
+		{
+			"path": "../20-Stu_CSS-positioning"
+		},
+		{
+			"path": "../21-Evr_Git-Guide"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
