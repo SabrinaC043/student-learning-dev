@@ -1,20 +1,20 @@
 .section  {
-  background-color: lemonchiffon;
+  background-color: rgb(122, 17, 227);
   display:flex;
   justify-content:flex-end
 
 }
 #paragraph-1 {
-  color: darkslateblue;
+  color: rgb(67, 44, 216);
   background-color: white;
 }
 
 #paragraph-2 {
-  color: darkslateblue;
-  background-color: darkorange;
+  color: rgb(161, 154, 211);
+  background-color: rgb(32, 17, 56);
 }
 
 #paragraph-3 {
     color: white;
     background-color: darkslateblue;
-}
+} 
