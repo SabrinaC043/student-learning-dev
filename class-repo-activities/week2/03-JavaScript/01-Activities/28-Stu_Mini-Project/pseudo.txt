@@ -1,0 +1,32 @@
+Build a Rock, Paper, Scissors Game
+logic of this game:
+User will select a value and the computer will select randomly a value. 
+
+
+how does a user when this game?
+R-beats Scissors 
+P-beats Rock
+S-beats Paper
+
+
+
+What data do I need to track in this app? 
+wins, losses, ties, so create variables because they change over time. 
+
+
+The user will be prompted to select a value and then click okay.
+
+computer-selection-how am i going to have the pc randomly choose these values?
+R,P,S??
+               //0,   1,    2 
+var computer = ["R", "P", "S]
+math.floor() math.random()
+
+once we have the user selection and random computer selection 
+
+we need to compare the two values to see if the user wins,losses, ties-create variables
+
+IF STATMENT if user wins-wins`
+logical operators &&
+can I use a function? 
+yes
