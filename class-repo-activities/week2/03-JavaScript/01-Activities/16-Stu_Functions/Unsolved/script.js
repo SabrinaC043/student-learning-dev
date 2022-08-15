@@ -1,19 +1,59 @@
-// isEqual using function declaration
-function isEqual(x, y) {
-  if (x === y) {
-    console.log('They are equal in type and value');
-  } else if (x == y) {
-    console.log('They are equal in value');
-  } else {
-    console.log('They are not equal');
-  }
-  return;
+
+
+function isEqual() {
+  console.log(x,y);
+
 }
 
-// Logs "They are equal in type and value"
-isEqual(10, 10);
+isEqual();
 
-// Refer to sample functions as needed!
+
+
+isEqual ( 10, 10 ) {
+  console.log (x);
+  console.log(y);
+
+}
+
+
+
+if isEqual (x===y){
+console.log ("They are equal in type and value");
+} 
+else if (x==y)
+{
+console.log ("They are not equal in value");
+
+}
+
+else (!x==y) {
+  console.log ("They are not equal");
+
+
+  return;
+
+}
+// Logs "They are equal in type and value"
+//  isEqual(10, 10);
+//  console.log(x);
+//  console.log (y);
+
+
+// if isEqual(x===y) {
+//   console.log ("They are equal in type and value"); 
+// }
+// else if (x==y) { 
+//   console.log ("They are not equal in value"); 
+// }
+// else (x!==y){
+//   console.log ("They are not equal");
+  
+  // return;
+// }
+
+
+
+
 
 // TODO: Call the isEqual function so that it logs "They are equal in value"
 
